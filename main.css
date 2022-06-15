@@ -1,5 +1,5 @@
 .container {
-    width: 300vw;
+    width: 400vw;
     transition: transform 0.5s;
 }
 
@@ -9,5 +9,5 @@
 }
 
 .inner img {
-    width: 100%;
+    width: 500px;
 }
