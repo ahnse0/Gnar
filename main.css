@@ -3,11 +3,11 @@
     transition: transform 0.5s;
 }
 
-.inner {
+.inner_slide {
     width: 100vw;
     float: left;
 }
 
-.inner img {
+.inner_slide img {
     width: 500px;
 }
