@@ -207,5 +207,6 @@
 
 .inner_slide img {
     margin: auto;
-    width: 500px;
+    width: 100%;
+    height: auto;
 }
