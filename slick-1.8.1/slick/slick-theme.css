@@ -210,3 +210,9 @@
     width: 100%;
     height: auto;
 }
+
+.wrap-item-button {
+    display: flex;
+    width: 70%;
+    margin: auto;
+}
