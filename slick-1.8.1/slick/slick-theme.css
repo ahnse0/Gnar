@@ -209,3 +209,7 @@
     width: 100%;
     height: auto;
 }
+
+.fr-view img.fr-dib {
+    margin: 0 !important;
+}
