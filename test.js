@@ -1,1 +1,3 @@
-console.log('test');
+export function ready() {
+  console.log('test');
+};
